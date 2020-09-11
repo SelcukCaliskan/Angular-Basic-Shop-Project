@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mor Soğan",
+      "price": "6",
+      "categoryId": 1,
+      "description": "Asus ZenBook",
+      "imageUrl": "https://www.intfarming.com/image/cache/catalog/standart-sebze-tohumu/sogan-tohumu/mor-sogan-tohumu-600x600.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pan 88",
+      "price": "3",
+      "categoryId": 2,
+      "description": "A4 Tech",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5oVexgnUH2dDAU1TbHG_JnN4BMk927i2smw&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Yerli Soğan",
+      "price": "2",
+      "categoryId": 3,
+      "description": "Mor Soğan",
+      "imageUrl": "https://static.ilanversen.com/ilan/foto/2/1-jpg-64-1293.jpg"
+    },
+   
+    {
+      "name": "İthal",
+      "description": "İthal Soğan cinsi",
+      "price": "1.2 ",
+      "imageUrl": "https://img-s1.onedio.com/id-5c63ccf0b366d61d1465c886/rev-0/w-635/listing/f-jpg-webp/s-f1ec564c8921d90bb9b20af732d772e941d90a4e.webp",
+      "categoryId": "4",
+      "id": 4
+    },
+    {
+      "name": "Kapıdağ Soğanı",
+      "description": "Erdek Soğanı",
+      "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKGRxM6yvVuppSV2tANNz_6MdKkmbI5n59zw&usqp=CAU",
+      "price": "6",
+      "categoryId": "1",
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tarım1"
+    },
+    {
+      "id": 2,
+      "name": "Tarım2"
+    },
+    {
+      "id": 3,
+      "name": "Tarım3"
+    },
+    {
+      "id": 4,
+      "name": "Tarım4"
+    }
+  ]
+}
